@@ -1,3 +1,7 @@
+Application to organize, document and rate McNally's dorky record collection. 
+What will this solve? McNally complains about so much, one if which is his lack of ability to immediately identify if he currently owns a record, and if so, what shape is it in? 
+McNally finds himself grumpily searching through record bins at estate sales, wondering if he should purchase this copy of Motley Crue's Theater of Pain? Is it better than the 2 copies that I currently own? Will is have less skips? Can I celebrate Home Sweet Home in all it's entirety without wondering if a good cleaning will correct the blemishes in the vinyl? 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
